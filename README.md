@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @davidferreira101
-- 👀 I’m interested in hackear
-- 🌱 I’m currently learning  Pentest,desevolvimento web e web hacking
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning  Pentest, Network Security, Network, Web Developement and Web Security
 - 💞️ I’m looking to  learn every days news things
-- 📫 How to reach me  facebook.com/profile.php?v=feed&ref=dbl&_rdr 
+- 📫 How to reach me https://www.linkedin.com/in/david-ferreira-cybersecurity/ 
